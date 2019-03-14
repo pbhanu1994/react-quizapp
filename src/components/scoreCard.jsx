@@ -77,7 +77,7 @@ class ScoreCard extends Component {
         </div>
 
         <center>
-          <Link to="/" className="btn btn-success ml-3">
+          <Link to="/" className="btn btn-success btn-lg ml-3">
             Go Home
           </Link>
         </center>
